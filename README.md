@@ -2,6 +2,7 @@
 RPG1 is a RPG game written in Java that is for development and as a core of a Java RPG game
 
 This program is distributed under the terms of the GNU General Public License
+
  ___________________________________________
 |                                           |
 |            RPG1 By Noah Dunbar            |
