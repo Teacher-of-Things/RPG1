@@ -8,12 +8,13 @@ Copyright (c) 2017 Noah Dunbar
 Developed in Java on the Raspberry Pi 3
 
 Controls
-W
-Down                  S
-Left                  A
-Right                 D
-Attack Up             Up Arrow
-Attack Down           Down Arrow
-Attack Left           Left Arrow
-Attack Right          Right Arrow
-Open/Close Inventory  E
+
+Up: W
+Down: S
+Left: A
+Right: D
+Attack Up: Up Arrow
+Attack Down: Down Arrow
+Attack Left: Left Arrow
+Attack Right: Right Arrow
+Open/Close Inventory: E
