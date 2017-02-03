@@ -18,3 +18,11 @@ Attack Down: Down Arrow
 Attack Left: Left Arrow
 Attack Right: Right Arrow
 Open/Close Inventory: E
+
+To get a full install, compile and run:
+
+  -Open the terminal and type: git clone https://github.com/Teacher-of-Things/RPG1.git
+  -Type chmod +x *.sh
+  -Type ./Compile-All.sh
+  -Enter the version for the game
+  -Double click Launcher.sh and click Exicute
